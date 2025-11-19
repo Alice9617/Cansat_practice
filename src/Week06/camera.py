@@ -1,3 +1,4 @@
+import RPi.GPIO
 from picamera2 import Picamera2
 from datetime import datetime
 
